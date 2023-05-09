@@ -1,1 +1,2 @@
 Open a folder from command line xdg-open /
+To remove a folder with all the files and folders within in is "rm -rfv PthonGit/"(r=recursive ,f=force no prompts,v=verbose)
