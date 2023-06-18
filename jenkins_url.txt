@@ -1,6 +1,0 @@
-https://www.digitalocean.com/community/tutorials/how-to-install-jenkins-on-ubuntu-18-04
-https://pkg.jenkins.io/debian/
-
-You have to install GIT also in you local machine
-https://www.guru99.com/jenkins-github-integration.html
-command is , sudo apt install git.
